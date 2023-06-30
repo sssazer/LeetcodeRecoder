@@ -1,0 +1,8 @@
+﻿  37解数独.cpp
+E:\CS_Source\LeetCode\2023.04.23\2023.04.23\37解数独.cpp(17,17): warning C4018: “>=”: 有符号/无符号不匹配
+E:\CS_Source\LeetCode\2023.04.23\2023.04.23\37解数独.cpp(17,40): warning C4018: “>=”: 有符号/无符号不匹配
+E:\CS_Source\LeetCode\2023.04.23\2023.04.23\37解数独.cpp(23,25): warning C4018: “>=”: 有符号/无符号不匹配
+E:\CS_Source\LeetCode\2023.04.23\2023.04.23\37解数独.cpp(37,17): warning C4018: “>=”: 有符号/无符号不匹配
+E:\CS_Source\LeetCode\2023.04.23\2023.04.23\37解数独.cpp(57,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\CS_Source\LeetCode\2023.04.23\2023.04.23\37解数独.cpp(58,31): warning C4018: “<”: 有符号/无符号不匹配
+  2023.04.23.vcxproj -> E:\CS_Source\LeetCode\2023.04.23\Debug\2023.04.23.exe

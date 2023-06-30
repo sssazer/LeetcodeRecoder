@@ -1,0 +1,4 @@
+﻿  416分割等和子集.cpp
+E:\CS_Source\LeetCode\2023.05.04\2023.05.04\416分割等和子集.cpp(12,24): warning C4018: “>=”: 有符号/无符号不匹配
+E:\CS_Source\LeetCode\2023.05.04\2023.05.04\416分割等和子集.cpp(42,27): warning C4018: “<”: 有符号/无符号不匹配
+  2023.05.04.vcxproj -> E:\CS_Source\LeetCode\2023.05.04\Debug\2023.05.04.exe
